@@ -1,2 +1,0 @@
-﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  3D_Programming_File_2.vcxproj -> C:\Unreal Engine 5\Github\3D_Programming_File_2\3D_Programming_File_2\x64\Debug\3D_Programming_File_2.exe
