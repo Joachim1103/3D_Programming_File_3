@@ -135,7 +135,6 @@
   <ItemGroup>
     <ClCompile Include="Compulsory3.cpp" />
     <ClCompile Include="glad.c" />
-    <ClCompile Include="Test3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stb_image.h" />
