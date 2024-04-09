@@ -133,10 +133,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Compulsory 2.cpp" />
+    <ClCompile Include="Compulsory3.cpp" />
     <ClCompile Include="glad.c" />
-    <ClCompile Include="Test.cpp" />
-    <ClCompile Include="Test2.cpp" />
+    <ClCompile Include="Test3.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stb_image.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
