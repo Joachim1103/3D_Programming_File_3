@@ -135,8 +135,13 @@
   <ItemGroup>
     <ClCompile Include="Compulsory3.cpp" />
     <ClCompile Include="glad.c" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Shader.cpp" />
+    <ClCompile Include="ShaderFileLoader.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Shader.h" />
+    <ClInclude Include="ShaderFileLoader.h" />
     <ClInclude Include="stb_image.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
